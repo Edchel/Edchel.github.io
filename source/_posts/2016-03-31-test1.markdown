@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Markdown简单使用"
+date: 2016-03-31 19:31:22 +0800
+comments: true
+categories: 
+---
+#你好，西安！
+##二级标题
+**加粗**
+
+`标量`
+
+- Android
+	- http
+	- sqlite3
+- PHP
+- HTML
+
+
+>引用
+
+[Edchel](http://www.edchel.com)
+
+![image](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
+
+
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+</video>
+
+
+```
+
+public class Edchel{
+		public static void main(string[] args){
+			System.out.println("");
+		}
+}
+
+```
+
